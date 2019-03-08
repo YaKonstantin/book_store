@@ -2,12 +2,29 @@
 <html>
 <head>
   <title>BookStore</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
+  <%= stylesheet_link_tag "application", media: "all",
+                          "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application",
+                             "data-turbolinks-track" => true %>
+  <%= csrf_meta_tag %>
 </head>
-<body class='<%= controller.controller_name %>'>
-<%= yield %>
-
+<body class="<%= controller.controller_name %>">
+<div id="banner">
+  <%= image_tag("https://99px.ru/cms/temp/module_temp1/image1_112070818133950x50.gif") %>
+  <%= @page_title || "BookStore" %>
+</div>
+<div id="columns">
+  <div id="side">
+    <ul>
+      <li><a href="http://www....">Home</a></li>
+      <li><a href="http://www..../faq">Questions</a></li>
+      <li><a href="http://www..../news">News</a></li>
+      <li><a href="http://www..../contact">Contact</a></li>
+    </ul>
+  </div>
+  <div id="main">
+    <%= yield %>
+  </div>
+</div>
 </body>
 </html>
