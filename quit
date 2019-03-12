@@ -1,0 +1,77 @@
+[33mcommit 781e9eb7eab874dd94c96413da2cb86f863b0c98[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 10 21:59:26 2019 +0300
+
+    new design isras
+
+[33mcommit 18f8da432b51f527c0113f061b8a4cc6e884a765[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 10 18:53:24 2019 +0300
+
+    last commit under atom-chanel
+
+[33mcommit 7ce01e148d821bceee4227de1955262ae3f614c4[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 10 18:39:48 2019 +0300
+
+    repair endig of buing
+
+[33mcommit 8383020536027c93ad34b80cdba924eba30f78a3[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 10 18:02:55 2019 +0300
+
+    validation_repair
+
+[33mcommit 0a456804b782124889787969432117a3ca06a31e[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 10 12:57:59 2019 +0300
+
+    cart and blind fix
+
+[33mcommit f28384311c2a878b5f2a280aa22fab005c013024[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sat Mar 9 16:48:05 2019 +0300
+
+    Ajax and cart update
+
+[33mcommit 4e637e10bfe474be2752a9296b022b4e360709f8[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Fri Mar 8 18:48:15 2019 +0300
+
+    basket
+
+[33mcommit ef40559f07e2f152c71e91db79a54fa97e6b5399[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Fri Mar 8 17:01:15 2019 +0300
+
+    Style_and_cashe
+
+[33mcommit 8e53f9e4942af55a14c8962db87ca9fa18d43eea[m
+Author: Yashin Konstantin <jakonstantin@gmail.com>
+Date:   Fri Mar 8 14:41:41 2019 +0300
+
+    create readme.md
+
+[33mcommit b55a76f02ad6c1876d68a5f35cb671d9497ca50e[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Fri Mar 8 14:35:43 2019 +0300
+
+    Store_controller
+
+[33mcommit 896b3f711ca52db9700d33fa6c10caf8eb1eccd0[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Fri Mar 8 13:56:19 2019 +0300
+
+    Block_Test!
+
+[33mcommit d2d4d95f7db33c6c76789624299994ddf9c98892[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 3 23:49:56 2019 +0300
+
+    book_store test
+
+[33mcommit e17810529579ed9e821207bb6eba259c2ede8dfd[m
+Author: YaKonsatantin <jakonstantin@gmail.com>
+Date:   Sun Mar 3 22:41:59 2019 +0300
+
+    book_store scaffold
